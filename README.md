@@ -38,7 +38,7 @@
 - [【背上Jetpack之DataBinding】数据驱动魔法师 何时迎来翻身日？](https://juejin.im/post/5e8ef0bc518825736b749705)
 
 
-- [【背上Jetpack之Navigation】想去哪就去哪，Android世界的指南针]() 待更新
+- [【背上Jetpack之Navigation】想去哪就去哪，Android世界的指南针](https://juejin.im/post/5ec6a56ff265da76ce5774df)
 
 
 
