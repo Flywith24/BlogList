@@ -91,6 +91,8 @@
 - [【奇技淫巧】使用 Navigation + Dynamic Feature Module 实现模块化](https://juejin.im/post/5ec50ae46fb9a047a862124f)
 
 
+- [【奇技淫巧】除了 buildSrc 还能这样统一配置依赖版本？巧用 includeBuild](https://juejin.im/post/5ecde219e51d457841190d08)
+
 
 ## 翻译系列
 
