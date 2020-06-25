@@ -1,3 +1,17 @@
+## 开源项目
+
+
+> 本系列介绍了我的开源项目
+
+
+- [开源项目：Jetpack 从 Java 到 Kotlin 无痛上车指南](https://juejin.im/post/5edf3397e51d4578587769ca)
+
+
+- [开源项目：Motion 挑战，一场想象力的比拼与展示](https://juejin.im/post/5ee71571f265da76f0169aaf)
+
+
+
+
 ## 背上 Jetpack 系列
 
 
@@ -7,6 +21,7 @@
 
 
 - [【背上Jetpack】Jetpack 主要组件的依赖及传递关系](https://juejin.im/post/5e567ee1518825494466a938)
+
 
 - [【背上Jetpack】AdroidX下使用Activity和Fragment的变化](https://juejin.im/post/5e5a0c316fb9a07cd248d29e)
 
@@ -52,11 +67,15 @@
 
 - [【Jetpack更新之Fragment】终于动手了，onActivityCreated 被弃用](https://juejin.im/post/5e9e55786fb9a03c550ff11f)
 
+
 - [【Jetpack更新之Fragment】setRetainInstance 被弃用](https://juejin.im/post/5e9fadb7f265da47f25626b8)
+
 
 - [【Jetpack更新之Fragment】setMaxLifecycle 上位，setUserVisibleHint 被弃用](https://juejin.im/post/5ea12dbdf265da47b04d9f42)
 
+
 - [【Jetpack更新之Fragment】1.3.0-alpha04 来袭，Fragment 间通信的新姿势](https://juejin.im/post/5eaa471bf265da7bad3536bd)
+
 
 - [【Jetpack更新之Recyclerview】更优雅地恢复 recyclerview 的滚动位置](https://juejin.im/post/5eba4d5f6fb9a0436545b6e5)
 
@@ -79,6 +98,7 @@
 
 - [【奇技淫巧】什么？项目里gradle代码超过200行了！你可能需要 Kotlin+buildSrc Plugin](https://juejin.im/post/5e22c2ce6fb9a02ff67d41c3)
 
+
 - [【奇技淫巧】gradle依赖查找太麻烦？这个插件可能帮到你](https://juejin.im/post/5e481a28f265da570b3f235c)
 
 
@@ -95,6 +115,30 @@
 
 
 - [【奇技淫巧】巧用 kotlin 扩展函数和 typealias 封装 带网络状态和解决「粘性」事件的 LiveData](https://juejin.im/post/5ed9c92ce51d45789b35afa9)
+
+
+
+## UI 系列
+
+
+
+
+> 本系列介绍 Theme Style MaterialDesign 等
+
+
+
+- [【译】Android Styling 1： Themes vs Styles](https://juejin.im/post/5eead9196fb9a058734e3b03)
+
+
+- [【译】Android Styling 2： 常用主题属性](https://juejin.im/post/5eec07416fb9a058835d0306)
+
+
+- [【译】Android Styling 3： 使用主题和主题属性的优势](https://juejin.im/post/5eed67b4f265da02a642bd57)
+
+
+- [【译】Android Styling 4： 主题实战](https://juejin.im/post/5eeff86cf265da02e8177eba)
+
+
 
 
 ## 翻译系列
