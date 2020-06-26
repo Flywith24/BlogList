@@ -10,6 +10,8 @@
 - [开源项目：Motion 挑战，一场想象力的比拼与展示](https://juejin.im/post/5ee71571f265da76f0169aaf)
 
 
+- [开源项目：使用 Activity Result API + Kotlin 扩展函数 封装权限请求库](https://juejin.im/post/5ef555a35188252e7a1c506d)
+
 
 
 ## 背上 Jetpack 系列
@@ -188,4 +190,4 @@
 
 
 
-- [Android 11 下 Toast 变化，不能自定义 Toast 了？](https://juejin.im/post/5ea94bde6fb9a0435c6f49ca)
+- [Android 11 下 Toast 变化，不能自定义 Toast 了？](https://juejin.im/post/5ea94bde6fb9a0435c6f49ca)	
