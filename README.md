@@ -13,6 +13,9 @@
 - [开源项目：使用 Activity Result API + Kotlin 扩展函数 封装权限请求库](https://juejin.im/post/5ef555a35188252e7a1c506d)
 
 
+- [开源项目：kotlin 扩展函数和 typealias 封装 带网络状态和解决「粘性」事件的 LiveData](https://github.com/Flywith24/WrapperLiveDataDemo)
+
+
 
 ## 背上 Jetpack 系列
 
