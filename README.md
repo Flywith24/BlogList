@@ -159,7 +159,7 @@
 
 - [【译】kotlin 协程 Flow：给 RxJava 使用者的介绍](https://juejin.im/post/5e9d19f0e51d4546ed26e0f4)
 
-
+- [【译】Fragment 的重大重构 —— 介绍 Fragment 新的状态管理器](https://juejin.im/post/6863334752162676749)
 
 ## 玩转 Test 系列
 
