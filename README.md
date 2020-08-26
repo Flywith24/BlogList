@@ -1,3 +1,11 @@
+## Android Detail
+
+> 这是一个付费专栏，详情见 [Android Detail](https://xiaozhuanlan.com/detail)
+
+- [Android Detail：Android 世界的活点地图 dumpsys](https://xiaozhuanlan.com/topic/3860197542)
+
+- [Android Detail：官方文档不是圣经，老生常谈的 Activity 任务，返回栈](https://xiaozhuanlan.com/topic/4286791350)
+
 ## 开源项目
 
 
