@@ -112,7 +112,7 @@
 - [【奇技淫巧】什么？项目里gradle代码超过200行了！你可能需要 Kotlin+buildSrc Plugin](https://juejin.im/post/5e22c2ce6fb9a02ff67d41c3)
 
 
-- [【奇技淫巧】gradle依赖查找太麻烦？这个插件可能帮到你](https://juejin.im/post/5e481a28f265da570b3f235c)
+- [【奇技淫巧】gradle依赖查找太麻烦？这个插件可能帮到你](https://juejin.im/post/6844904056150818829)
 
 
 - [【奇技淫巧】Android组件化不使用 Router 如何实现组件间 activity 跳转](https://juejin.im/post/5e967f35f265da47d77cd4c3)
