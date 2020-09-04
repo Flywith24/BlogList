@@ -207,3 +207,6 @@
 
 
 - [Android 11 下 Toast 变化，不能自定义 Toast 了？](https://juejin.im/post/5ea94bde6fb9a0435c6f49ca)	
+
+
+- [使用 AccountManager 实现系统内共享账号](https://blog.csdn.net/fly_with_24/article/details/108406208)
