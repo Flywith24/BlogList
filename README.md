@@ -6,6 +6,8 @@
 
 - [Android Detail：官方文档不是圣经，老生常谈的 Activity 任务，返回栈](https://xiaozhuanlan.com/topic/4286791350)
 
+- [Android Detail：站在 Window 视角理解 Activity 任务与返回栈](https://xiaozhuanlan.com/topic/3268795140)
+
 ## 开源项目
 
 
