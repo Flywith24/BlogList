@@ -1,5 +1,5 @@
-## 使用指南
-可以在 [Issues](https://github.com/Flywith24/BlogList/issues) 中配合标签进行查阅，也可以在 [这里](https://flywith24.gitee.io/categories/) 看到所有分类
+## 食用指南
+在 [Issues](https://github.com/Flywith24/BlogList/issues) 中配合标签进行查阅，也可以在 [这里](https://flywith24.gitee.io/categories/) 看到所有分类
 
 ## Android Detail
 
@@ -30,7 +30,7 @@
 
 
 
-## 背上 Jetpack 系列
+## [背上 Jetpack 系列](https://github.com/Flywith24/BlogList/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E8%83%8C%E4%B8%8A+Jetpack%22)
 
 
 
