@@ -121,6 +121,8 @@
 
 - [【奇技淫巧】Android组件化不使用 Router 如何实现组件间 activity 跳转](https://juejin.im/post/5e967f35f265da47d77cd4c3)
 
+<details>
+<summary>显示更多</summary>
 
 - [【奇技淫巧】新的图片加载库？基于Kotlin协程的图片加载库——Coil](https://juejin.im/post/5ebdfb0b6fb9a0436153db22)
 
@@ -133,7 +135,7 @@
 
 - [【奇技淫巧】巧用 kotlin 扩展函数和 typealias 封装 带网络状态和解决「粘性」事件的 LiveData](https://juejin.im/post/5ed9c92ce51d45789b35afa9)
 
-
+<details>
 
 ## UI 系列
 
