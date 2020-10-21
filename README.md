@@ -135,7 +135,8 @@
 
 - [【奇技淫巧】巧用 kotlin 扩展函数和 typealias 封装 带网络状态和解决「粘性」事件的 LiveData](https://juejin.im/post/5ed9c92ce51d45789b35afa9)
 
-<details>
+</details>
+  
 
 ## UI 系列
 
