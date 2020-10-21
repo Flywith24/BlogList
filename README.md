@@ -1,7 +1,7 @@
 ## 食用指南
 在 [Issues](https://github.com/Flywith24/BlogList/issues) 中配合标签进行查阅，也可以在 [这里](https://flywith24.gitee.io/categories/) 看到所有分类
 
-## Android Detail
+## [Android Detail](https://xiaozhuanlan.com/detail)
 
 > 这是一个付费专栏，详情见 [Android Detail](https://xiaozhuanlan.com/detail)
 
