@@ -46,6 +46,8 @@
 
 - [【背上Jetpack之Fragment】从源码角度看 Fragment 生命周期 AndroidX Fragment1.2.2源码分析](https://juejin.im/post/5e67523551882549003d2c4f)
 
+<details>
+<summary>显示更多</summary>
 
 - [【背上Jetpack之OnBackPressedDispatcher】Fragment 返回栈预备篇](https://juejin.im/post/5e6bae35f265da572a0d11ad)
 
@@ -70,7 +72,7 @@
 
 - [【背上Jetpack之Navigation】想去哪就去哪，Android世界的指南针](https://juejin.im/post/5ec6a56ff265da76ce5774df)
 
-
+</details>
 
 ## Jetpack 更新系列
 
