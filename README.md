@@ -77,7 +77,7 @@
 
 </details>
 
-## Jetpack 更新系列
+## [Jetpack 更新系列](https://github.com/Flywith24/BlogList/labels/Jetpack%20%E6%9B%B4%E6%96%B0)
 
 
 
@@ -105,7 +105,7 @@
 
 
 
-##  奇技淫巧系列
+##  [奇技淫巧系列](https://github.com/Flywith24/BlogList/labels/%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7)
 
 
 
@@ -141,7 +141,7 @@
 </details>
   
 
-## UI 系列
+## [UI 系列](https://github.com/Flywith24/BlogList/labels/UI)
 
 
 
@@ -166,7 +166,7 @@
 
 
 
-## 翻译系列
+## [翻译系列](https://github.com/Flywith24/BlogList/labels/%E8%AF%91%E6%96%87)
 
 
 
@@ -187,7 +187,7 @@
 
 
 
-## 玩转 Test 系列
+## [玩转 Test 系列](https://github.com/Flywith24/BlogList/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E7%8E%A9%E8%BD%AC+Test%22)
 
 
 
@@ -208,7 +208,7 @@
 
 
 
-## 其他
+## [其他](https://github.com/Flywith24/BlogList/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%85%B6%E4%BB%96)
 
 
 
