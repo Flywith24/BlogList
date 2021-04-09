@@ -173,6 +173,7 @@
 
 > 翻译的一些英文文章
 
+- [【译】Kotlin 协程，JVM 线程以及并发问题](https://juejin.cn/post/6925324806896713735)
 
 
 - [【译】深入研究ViewBinding 在 include, merge, adapter, fragment, activity 中使用](https://juejin.im/post/5e4806f3e51d4526c550a2ef)
