@@ -84,6 +84,7 @@
 > 该系列主要介绍 Jetpack 库的最新更新信息
 
 
+- [【Jetpack 更新之Activity】ContextAware 是个啥？](https://juejin.cn/post/6930965257091285005)
 
 - [【Jetpack更新之Fragment】终于动手了，onActivityCreated 被弃用](https://juejin.im/post/5e9e55786fb9a03c550ff11f)
 
