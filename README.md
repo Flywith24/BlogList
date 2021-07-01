@@ -11,6 +11,16 @@
 
 - [Android Detail：站在 Window 视角理解 Activity 任务与返回栈](https://xiaozhuanlan.com/topic/3268795140)
 
+## [Fragment 多返回栈系列](https://juejin.cn/column/6979811243255136270)
+
+> 本系列主要介绍 Fragment 多返回栈的内容
+
+- [【Fragment多返回栈】开篇，Navigation 所谓的重建问题是什么？](https://juejin.cn/post/6923076959375212552)
+
+- [【Fragment 多返回栈发布】千呼万唤始出来，支持多返回栈的 Navigation 就不重建了吗?](https://juejin.cn/post/6979575721693806629)
+
+
+
 ## [开源项目](https://github.com/Flywith24/BlogList/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 
